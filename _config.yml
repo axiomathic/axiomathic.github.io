@@ -1,0 +1,6 @@
+title: Understanding l = rθ
+description: Thoughts on pure math
+theme: minima
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
