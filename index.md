@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 # Welcome to My Math Blog
